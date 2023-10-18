@@ -1,4 +1,4 @@
-# Thomas Mernagh's Data Engineering Portfolio 💻🚀
+# 💻🚀
 
 Hello there! 👋 Welcome to my GitHub page! I'm Thomas Mernagh, a passionate Junior Data Engineer based in Amsterdam, the Netherlands. Here's a glimpse into my professional journey in the realm of data engineering and analytics. 
 
