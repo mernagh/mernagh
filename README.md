@@ -25,8 +25,9 @@ Hello there! 👋 Welcome to my GitHub page! I'm Thomas Mernagh, a passionate Da
 - **DevOps:** CI/CD, Agile Scrum
 - 
 ## Passions and interests 
-- ** Urban design, archirecture, sustainability and the energy transisition
-- 
+- Health & energy science
+- Network analysis
+
 Feel free to explore my repositories and projects. Let's collaborate and create something amazing together! Happy coding! 😊🚀
 <!--
 **mernagh/mernagh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
