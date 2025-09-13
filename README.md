@@ -1,3 +1,3 @@
 # 💻🚀
 
-Data professional & creative code
+Data professional & creative coder
